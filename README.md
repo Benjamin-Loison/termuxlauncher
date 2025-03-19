@@ -43,7 +43,7 @@ and run this script to build:
 
 
 
-### Recomended
+### Recommended
 --------------
 To launch the application with command:
 ```bash
